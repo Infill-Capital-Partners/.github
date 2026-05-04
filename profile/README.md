@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Infill-Capital-Partners/.github/main/banner.png" alt="Infill Capital Partners" width="100%" />
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQE11tmnWnbEEw/profile-displaybackgroundimage-shrink_200_800/B4DZz4.gGeI4AY-/0/1773703660425?e=1779321600&v=beta&t=BLL7LIJMIPR6UevqyIOOGXYJP2tA2OgX6t1ky7iomc8" alt="Infill Capital Partners" width="100%" />
 </p>
 
 <h1 align="center">Infill Capital Partners</h1>
